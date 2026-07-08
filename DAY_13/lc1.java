@@ -14,3 +14,29 @@
 // Output: 2
 // Explanation: There are 2 values (3 and 5) that are greater than or equal to 2.
 
+class Solution {
+    public int specialArray(int[] nums) {
+        int st=1,end=0;
+        for(int n:nums){
+            end=Math.max(end,n);
+        }
+        int res=-1;
+        while(st<=end){
+            int mid=st+(end-st)/2;
+            int c=0;
+            for(int n:nums){
+                if(n>=mid) c++;
+            }
+            if(c==mid){
+                return mid;
+            }
+            if(c>mid){
+                st=mid+1;
+            }
+            else{
+                end=mid-1;
+            }
+        }
+        return -1;
+    }
+}
