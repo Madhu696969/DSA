@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Madhu696969/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Madhu696969/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Madhu696969/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Madhu696969/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
+| [2685-count-the-number-of-complete-components](https://github.com/Madhu696969/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Madhu696969/DSA/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
