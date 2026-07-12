@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Madhu696969/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Madhu696969/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Madhu696969/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Madhu696969/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Madhu696969/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Madhu696969/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Madhu696969/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Madhu696969/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -84,4 +86,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Madhu696969/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 <!---LeetCode Topics End-->
