@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Madhu696969/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Madhu696969/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Madhu696969/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Madhu696969/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Madhu696969/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Madhu696969/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Madhu696969/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Madhu696969/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Madhu696969/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Madhu696969/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Madhu696969/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Breadth-First Search
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Madhu696969/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 ## Dynamic Programming
 |  |
@@ -97,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Madhu696969/DSA/tree/master/1291-sequential-digits) |
+## Queue
+|  |
+| ------- |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
