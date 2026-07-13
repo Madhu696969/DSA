@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Madhu696969/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
