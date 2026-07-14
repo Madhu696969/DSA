@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Madhu696969/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhu696969/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Madhu696969/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Madhu696969/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -125,4 +127,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Madhu696969/DSA/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Madhu696969/DSA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Madhu696969/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
