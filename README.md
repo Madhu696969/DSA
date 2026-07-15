@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhu696969/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Madhu696969/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0875-koko-eating-bananas](https://github.com/Madhu696969/DSA/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Madhu696969/DSA/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhu696969/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Madhu696969/DSA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhu696969/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0875-koko-eating-bananas](https://github.com/Madhu696969/DSA/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Madhu696969/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Madhu696969/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Madhu696969/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
