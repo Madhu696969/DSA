@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhu696969/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Madhu696969/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Madhu696969/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/Madhu696969/DSA/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Madhu696969/DSA/tree/master/1046-last-stone-weight) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Madhu696969/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Madhu696969/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Madhu696969/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Madhu696969/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Madhu696969/DSA/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/Madhu696969/DSA/tree/master/1834-single-threaded-cpu) |
