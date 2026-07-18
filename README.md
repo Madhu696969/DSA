@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Madhu696969/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Madhu696969/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Madhu696969/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/Madhu696969/DSA/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Madhu696969/DSA/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhu696969/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhu696969/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Madhu696969/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/Madhu696969/DSA/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Madhu696969/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Madhu696969/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Madhu696969/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Madhu696969/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhu696969/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Madhu696969/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Madhu696969/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Madhu696969/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Madhu696969/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Madhu696969/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Madhu696969/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Madhu696969/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Madhu696969/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1046-last-stone-weight](https://github.com/Madhu696969/DSA/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/Madhu696969/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Madhu696969/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
