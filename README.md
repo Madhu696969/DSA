@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Madhu696969/DSA/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhu696969/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1405-longest-happy-string](https://github.com/Madhu696969/DSA/tree/master/1405-longest-happy-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Madhu696969/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Madhu696969/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Madhu696969/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhu696969/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1405-longest-happy-string](https://github.com/Madhu696969/DSA/tree/master/1405-longest-happy-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Madhu696969/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1046-last-stone-weight](https://github.com/Madhu696969/DSA/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/Madhu696969/DSA/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/Madhu696969/DSA/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Madhu696969/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Madhu696969/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
