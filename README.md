@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Madhu696969/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Madhu696969/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Madhu696969/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Madhu696969/DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Madhu696969/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Madhu696969/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Madhu696969/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Madhu696969/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Madhu696969/DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Madhu696969/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Madhu696969/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Madhu696969/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Madhu696969/DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Data Stream
 |  |
 | ------- |
