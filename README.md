@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Madhu696969/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Madhu696969/DSA/tree/master/0502-ipo) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0735-asteroid-collision](https://github.com/Madhu696969/DSA/tree/master/0735-asteroid-collision) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Madhu696969/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/Madhu696969/DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Madhu696969/DSA/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Madhu696969/DSA/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Madhu696969/DSA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Madhu696969/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Madhu696969/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/Madhu696969/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Madhu696969/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/Madhu696969/DSA/tree/master/0946-validate-stack-sequences) |
