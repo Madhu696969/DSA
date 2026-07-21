@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Madhu696969/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Madhu696969/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Madhu696969/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0456-132-pattern](https://github.com/Madhu696969/DSA/tree/master/0456-132-pattern) |
 | [0502-ipo](https://github.com/Madhu696969/DSA/tree/master/0502-ipo) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/Madhu696969/DSA/tree/master/0735-asteroid-collision) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhu696969/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0456-132-pattern](https://github.com/Madhu696969/DSA/tree/master/0456-132-pattern) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Madhu696969/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/Madhu696969/DSA/tree/master/0875-koko-eating-bananas) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Madhu696969/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Madhu696969/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Madhu696969/DSA/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Madhu696969/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Madhu696969/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Madhu696969/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Madhu696969/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Madhu696969/DSA/tree/master/0456-132-pattern) |
 | [0901-online-stock-span](https://github.com/Madhu696969/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhu696969/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -312,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Madhu696969/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Madhu696969/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
