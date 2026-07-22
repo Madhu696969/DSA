@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Madhu696969/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Madhu696969/DSA/tree/master/2594-minimum-time-to-repair-cars) |
+| [2751-robot-collisions](https://github.com/Madhu696969/DSA/tree/master/2751-robot-collisions) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Madhu696969/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/Madhu696969/DSA/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Madhu696969/DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Madhu696969/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Madhu696969/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2751-robot-collisions](https://github.com/Madhu696969/DSA/tree/master/2751-robot-collisions) |
 | [3362-zero-array-transformation-iii](https://github.com/Madhu696969/DSA/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Madhu696969/DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Madhu696969/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Madhu696969/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Madhu696969/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Madhu696969/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2751-robot-collisions](https://github.com/Madhu696969/DSA/tree/master/2751-robot-collisions) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Madhu696969/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Madhu696969/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhu696969/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhu696969/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Madhu696969/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [2751-robot-collisions](https://github.com/Madhu696969/DSA/tree/master/2751-robot-collisions) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
