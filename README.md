@@ -352,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Madhu696969/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Madhu696969/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
