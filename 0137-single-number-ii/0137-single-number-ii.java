@@ -2,12 +2,15 @@ class Solution {
     public int singleNumber(int[] nums) {
         int res=0;
         for(int i=0;i<32;i++){
-            int s=0;
+            int t=(1<<i);
+            int oC=0;
             for(int n:nums){
-                s+=(n>>i)&1;
+                if((n&t)!=0){
+                    oC++;
+                }
             }
-            if(s%3!=0){
-                res|=(1<<i);
+            if(oC%3==1){
+                res=(res|t);
             }
         }
         return res;
