@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Madhu696969/DSA/tree/master/2751-robot-collisions) |
 | [3362-zero-array-transformation-iii](https://github.com/Madhu696969/DSA/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Madhu696969/DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Madhu696969/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Madhu696969/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madhu696969/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Madhu696969/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Madhu696969/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Madhu696969/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Madhu696969/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Madhu696969/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
