@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Madhu696969/DSA/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Madhu696969/DSA/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Madhu696969/DSA/tree/master/1143-longest-common-subsequence) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Madhu696969/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Madhu696969/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Madhu696969/DSA/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2939-maximum-xor-product](https://github.com/Madhu696969/DSA/tree/master/2939-maximum-xor-product) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Madhu696969/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Madhu696969/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Madhu696969/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
