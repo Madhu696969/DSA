@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Madhu696969/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Madhu696969/DSA/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Madhu696969/DSA/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Madhu696969/DSA/tree/master/0087-scramble-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Madhu696969/DSA/tree/master/1143-longest-common-subsequence) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Madhu696969/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Madhu696969/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Madhu696969/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Madhu696969/DSA/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Madhu696969/DSA/tree/master/0087-scramble-string) |
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
