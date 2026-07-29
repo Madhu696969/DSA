@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Madhu696969/DSA/tree/master/0279-perfect-squares) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Madhu696969/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Madhu696969/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Madhu696969/DSA/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/Madhu696969/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhu696969/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/Madhu696969/DSA/tree/master/0279-perfect-squares) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Madhu696969/DSA/tree/master/1143-longest-common-subsequence) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Madhu696969/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Madhu696969/DSA/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/Madhu696969/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madhu696969/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2939-maximum-xor-product](https://github.com/Madhu696969/DSA/tree/master/2939-maximum-xor-product) |
