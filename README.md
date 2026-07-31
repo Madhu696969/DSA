@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhu696969/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Madhu696969/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Madhu696969/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Madhu696969/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Madhu696969/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/Madhu696969/DSA/tree/master/2751-robot-collisions) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Madhu696969/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3362-zero-array-transformation-iii](https://github.com/Madhu696969/DSA/tree/master/3362-zero-array-transformation-iii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Madhu696969/DSA/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Madhu696969/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 | [2939-maximum-xor-product](https://github.com/Madhu696969/DSA/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu696969/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Madhu696969/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3362-zero-array-transformation-iii](https://github.com/Madhu696969/DSA/tree/master/3362-zero-array-transformation-iii) |
 ## Dynamic Programming
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Madhu696969/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1405-longest-happy-string](https://github.com/Madhu696969/DSA/tree/master/1405-longest-happy-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu696969/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Madhu696969/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Madhu696969/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Madhu696969/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Madhu696969/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Madhu696969/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Madhu696969/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Quickselect
 |  |
 | ------- |
