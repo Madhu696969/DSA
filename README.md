@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Madhu696969/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Madhu696969/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Madhu696969/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Madhu696969/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Madhu696969/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1834-single-threaded-cpu](https://github.com/Madhu696969/DSA/tree/master/1834-single-threaded-cpu) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Madhu696969/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Madhu696969/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Madhu696969/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Madhu696969/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Madhu696969/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Madhu696969/DSA/tree/master/0279-perfect-squares) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Madhu696969/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Madhu696969/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Greedy
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Madhu696969/DSA/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1260-shift-2d-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Prefix Sum
 |  |
 | ------- |
