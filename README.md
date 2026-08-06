@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Madhu696969/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/Madhu696969/DSA/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Madhu696969/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Madhu696969/DSA/tree/master/0814-binary-tree-pruning) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Madhu696969/DSA/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Madhu696969/DSA/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Madhu696969/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/Madhu696969/DSA/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Madhu696969/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Madhu696969/DSA/tree/master/0814-binary-tree-pruning) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Madhu696969/DSA/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/Madhu696969/DSA/tree/master/0113-path-sum-ii) |
 ## Counting Sort
 |  |
 | ------- |
