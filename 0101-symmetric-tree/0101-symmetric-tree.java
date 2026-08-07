@@ -14,6 +14,8 @@
  * }
  */
 class Solution {
+
+    // Can be Solved Using BFS as Well Use 2-pointer and to compare
     public boolean isSymmetric(TreeNode root) {
         return solve(root.left,root.right);
     }
