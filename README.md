@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Madhu696969/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madhu696969/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3362-zero-array-transformation-iii](https://github.com/Madhu696969/DSA/tree/master/3362-zero-array-transformation-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Madhu696969/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu696969/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Madhu696969/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madhu696969/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3362-zero-array-transformation-iii](https://github.com/Madhu696969/DSA/tree/master/3362-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Madhu696969/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madhu696969/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu696969/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Madhu696969/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madhu696969/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Madhu696969/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Madhu696969/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
