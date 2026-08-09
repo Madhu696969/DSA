@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/Madhu696969/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Madhu696969/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhu696969/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Madhu696969/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Madhu696969/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Madhu696969/DSA/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Madhu696969/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Madhu696969/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Madhu696969/DSA/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Madhu696969/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Madhu696969/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Madhu696969/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/Madhu696969/DSA/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Madhu696969/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Madhu696969/DSA/tree/master/0279-perfect-squares) |
 | [0623-add-one-row-to-tree](https://github.com/Madhu696969/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Madhu696969/DSA/tree/master/1971-find-if-path-exists-in-graph) |
