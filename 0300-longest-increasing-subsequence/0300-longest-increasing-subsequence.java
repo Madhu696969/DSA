@@ -14,7 +14,6 @@ class Solution {
         if(cur_idx==nums.length){
             return 0;
         }
-
         if(dp[cur_idx][prev_idx]!=-1){
             return dp[cur_idx][prev_idx];
         }
