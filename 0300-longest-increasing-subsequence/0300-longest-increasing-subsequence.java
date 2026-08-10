@@ -1,28 +1,28 @@
 class Solution {
+
+    // Can Be solved Using BinarySearch as well 
+    int[][] dp;
     public int lengthOfLIS(int[] nums) {
-        ArrayList<Integer> res=new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-            if(res.isEmpty() || res.get(res.size()-1)<nums[i]){
-                res.add(nums[i]);
-            }
-            else{
-                int idx=BinaryS(res,nums[i]);
-                res.set(idx,nums[i]);
-            }
+        int n=nums.length;
+        dp=new int[n][n+1];
+        for(int[] d:dp){
+            Arrays.fill(d,-1);
         }
-        return res.size();
+        return solve(nums,0,n);
     }
-    private int BinaryS(ArrayList<Integer> res,int tar){
-        int l=0,e=res.size()-1;
-        while(l<=e){
-            int m=l+(e-l)/2;
-            if(res.get(m)>=tar){
-                e=m-1;
-            }
-            else{
-                l=m+1;
-            }
+    private int solve(int[] nums,int cur_idx,int prev_idx){
+        if(cur_idx==nums.length){
+            return 0;
         }
-        return l;
+
+        if(dp[cur_idx][prev_idx]!=-1){
+            return dp[cur_idx][prev_idx];
+        }
+        int take=0;
+        if(prev_idx==nums.length || nums[cur_idx] > nums[prev_idx]){
+            take=1+solve(nums,cur_idx+1,cur_idx);
+        }
+        int skip=solve(nums,cur_idx+1,prev_idx);
+        return dp[cur_idx][prev_idx]=Math.max(take,skip);
     }
 }
