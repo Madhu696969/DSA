@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Madhu696969/DSA/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Madhu696969/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madhu696969/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Madhu696969/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madhu696969/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2939-maximum-xor-product](https://github.com/Madhu696969/DSA/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu696969/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Madhu696969/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -564,12 +567,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 ## DP on Trees
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
