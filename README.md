@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Madhu696969/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Madhu696969/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Madhu696969/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1361-validate-binary-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/1361-validate-binary-tree-nodes) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Madhu696969/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Madhu696969/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Madhu696969/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1361-validate-binary-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/1361-validate-binary-tree-nodes) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Madhu696969/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Madhu696969/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Madhu696969/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1361-validate-binary-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/1361-validate-binary-tree-nodes) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Nim Game
 |  |
