@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Madhu696969/DSA/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Madhu696969/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Madhu696969/DSA/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Madhu696969/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Simulation
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1609-even-odd-tree](https://github.com/Madhu696969/DSA/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Madhu696969/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Madhu696969/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/Madhu696969/DSA/tree/master/2685-count-the-number-of-complete-components) |
