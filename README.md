@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Madhu696969/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhu696969/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhu696969/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Madhu696969/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Madhu696969/DSA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Madhu696969/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Madhu696969/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Madhu696969/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madhu696969/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
