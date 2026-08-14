@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhu696969/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Madhu696969/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Madhu696969/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhu696969/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Madhu696969/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Madhu696969/DSA/tree/master/3731-find-missing-elements) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Madhu696969/DSA/tree/master/1405-longest-happy-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Madhu696969/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Madhu696969/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhu696969/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Madhu696969/DSA/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3280-convert-date-to-binary](https://github.com/Madhu696969/DSA/tree/master/3280-convert-date-to-binary) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Madhu696969/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Madhu696969/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madhu696969/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Madhu696969/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
 |  |
 | ------- |
