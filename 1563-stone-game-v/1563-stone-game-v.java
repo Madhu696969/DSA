@@ -1,17 +1,20 @@
 class Solution {
-    int[][] dp=new int[501][501];  
+    int[][] dp;
     public int stoneGameV(int[] stoneValue) {
-        for(int[] d:dp)
-            Arrays.fill(d,-1);
         int n=stoneValue.length;
-        int[] prefs=new int[n];
-        prefs[0]=stoneValue[0];
-        for(int i=1;i<stoneValue.length;i++){
-            prefs[i]=prefs[i-1]+stoneValue[i];
+        dp=new int[n][n];
+        for(int[] d:dp){
+            Arrays.fill(d,-1);
         }
-        return solve(0,n-1,prefs);
+        int[] pSum=new int[n];
+        pSum[0]=stoneValue[0];
+        for(int i=1;i<n;i++){
+            pSum[i]=pSum[i-1]+stoneValue[i];
+        }
+
+        return solve(0,n-1,pSum);
     }
-    private int solve(int l,int r,int[] prefs){
+    private int solve(int l,int r,int[] pSum){
         if(l>=r){
             return 0;
         }
@@ -19,17 +22,19 @@ class Solution {
             return dp[l][r];
         }
         int res=0;
+
         for(int m=l;m<=r-1;m++){
-            int lS=prefs[m]-((l-1)>=0?prefs[l-1]:0);
-            int rS=prefs[r]-prefs[m];
-            if(lS<rS){
-                res=Math.max(res,lS+solve(l,m,prefs));
+            int lS=pSum[m]-((l-1>=0)?pSum[l-1]:0);
+            int rS=pSum[r]-pSum[m];
+
+            if(lS>rS){
+                res=Math.max(res,rS+solve(m+1,r,pSum));
             }
-            else if(rS<lS){
-                res=Math.max(res,rS+solve(m+1,r,prefs));
+            else if(lS<rS){
+                res=Math.max(res,lS+solve(l,m,pSum));
             }
             else{
-                res=Math.max(res,Math.max(lS+solve(l,m,prefs),rS+solve(m+1,r,prefs)));
+                res=Math.max(res,Math.max(lS+solve(l,m,pSum),rS+solve(m+1,r,pSum)));
             }
         }
         return dp[l][r]=res;
