@@ -3,10 +3,10 @@ class Solution {
     public int maximumRequests(int n, int[][] requests) {
         int[] Base=new int[n];
         m=requests.length;
-        solve(0,n,Base,0,requests);
+        solve(0,0,Base,requests);
         return res;
     }
-    private void solve(int idx,int n,int[] Base,int c,int[][] requests){
+    private void solve(int idx,int c,int[] Base,int[][] requests){
         if(idx>=m){
             boolean allZero=true;
 
@@ -25,9 +25,9 @@ class Solution {
         int to=requests[idx][1];
         Base[from]--;
         Base[to]++;
-        solve(idx+1,n,Base,c+1,requests);
+        solve(idx+1,c+1,Base,requests);
         Base[from]++;
         Base[to]--;
-        solve(idx+1,n,Base,c,requests);
+        solve(idx+1,c,Base,requests);
     }
 }
