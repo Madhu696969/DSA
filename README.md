@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Madhu696969/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0456-132-pattern](https://github.com/Madhu696969/DSA/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Madhu696969/DSA/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/Madhu696969/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0502-ipo](https://github.com/Madhu696969/DSA/tree/master/0502-ipo) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Madhu696969/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/Madhu696969/DSA/tree/master/0735-asteroid-collision) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Madhu696969/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Madhu696969/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Madhu696969/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0491-non-decreasing-subsequences](https://github.com/Madhu696969/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
 | [0652-find-duplicate-subtrees](https://github.com/Madhu696969/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Madhu696969/DSA/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Madhu696969/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0491-non-decreasing-subsequences](https://github.com/Madhu696969/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Madhu696969/DSA/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Madhu696969/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Madhu696969/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Madhu696969/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Madhu696969/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Madhu696969/DSA/tree/master/0113-path-sum-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Madhu696969/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Madhu696969/DSA/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/Madhu696969/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Counting Sort
