@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Madhu696969/DSA/tree/master/0087-scramble-string) |
 | [0120-triangle](https://github.com/Madhu696969/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhu696969/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Madhu696969/DSA/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/Madhu696969/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Madhu696969/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Madhu696969/DSA/tree/master/0486-predict-the-winner) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Madhu696969/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Madhu696969/DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Madhu696969/DSA/tree/master/0087-scramble-string) |
+| [0131-palindrome-partitioning](https://github.com/Madhu696969/DSA/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Madhu696969/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Madhu696969/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Madhu696969/DSA/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Madhu696969/DSA/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Madhu696969/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Madhu696969/DSA/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/Madhu696969/DSA/tree/master/1079-letter-tile-possibilities) |
