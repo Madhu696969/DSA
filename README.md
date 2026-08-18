@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Madhu696969/DSA/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/Madhu696969/DSA/tree/master/0962-maximum-width-ramp) |
 | [0973-k-closest-points-to-origin](https://github.com/Madhu696969/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0980-unique-paths-iii](https://github.com/Madhu696969/DSA/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/Madhu696969/DSA/tree/master/1046-last-stone-weight) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Madhu696969/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Madhu696969/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Madhu696969/DSA/tree/master/0085-maximal-rectangle) |
+| [0980-unique-paths-iii](https://github.com/Madhu696969/DSA/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Prefix Sum
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Madhu696969/DSA/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Madhu696969/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0980-unique-paths-iii](https://github.com/Madhu696969/DSA/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Madhu696969/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Madhu696969/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Madhu696969/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Madhu696969/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Madhu696969/DSA/tree/master/0113-path-sum-ii) |
+| [0980-unique-paths-iii](https://github.com/Madhu696969/DSA/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/Madhu696969/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Counting Sort
 |  |
@@ -660,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Madhu696969/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Madhu696969/DSA/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
