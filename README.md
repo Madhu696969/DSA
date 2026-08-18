@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Madhu696969/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Madhu696969/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Madhu696969/DSA/tree/master/1563-stone-game-v) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Madhu696969/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Madhu696969/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Madhu696969/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1834-single-threaded-cpu](https://github.com/Madhu696969/DSA/tree/master/1834-single-threaded-cpu) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Madhu696969/DSA/tree/master/1291-sequential-digits) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Madhu696969/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Madhu696969/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Madhu696969/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Madhu696969/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Madhu696969/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Madhu696969/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Madhu696969/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Madhu696969/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Madhu696969/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2939-maximum-xor-product](https://github.com/Madhu696969/DSA/tree/master/2939-maximum-xor-product) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Madhu696969/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Madhu696969/DSA/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/Madhu696969/DSA/tree/master/1079-letter-tile-possibilities) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Madhu696969/DSA/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Madhu696969/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Counting Sort
 |  |
