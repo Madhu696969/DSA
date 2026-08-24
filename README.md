@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Madhu696969/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Madhu696969/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1834-single-threaded-cpu](https://github.com/Madhu696969/DSA/tree/master/1834-single-threaded-cpu) |
+| [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Madhu696969/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madhu696969/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Madhu696969/DSA/tree/master/2029-stone-game-ix) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Madhu696969/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Madhu696969/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2305-fair-distribution-of-cookies](https://github.com/Madhu696969/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Madhu696969/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Madhu696969/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madhu696969/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Madhu696969/DSA/tree/master/2029-stone-game-ix) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Madhu696969/DSA/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [3362-zero-array-transformation-iii](https://github.com/Madhu696969/DSA/tree/master/3362-zero-array-transformation-iii) |
 ## Geometry
 |  |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Madhu696969/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Madhu696969/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Madhu696969/DSA/tree/master/2029-stone-game-ix) |
 ## Binary Lifting
@@ -679,12 +684,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Madhu696969/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Madhu696969/DSA/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
