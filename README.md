@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madhu696969/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Madhu696969/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Madhu696969/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Madhu696969/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Madhu696969/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Madhu696969/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhu696969/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madhu696969/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Madhu696969/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Madhu696969/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Madhu696969/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Madhu696969/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhu696969/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Madhu696969/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Madhu696969/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Madhu696969/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madhu696969/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/Madhu696969/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Madhu696969/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Madhu696969/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Madhu696969/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
