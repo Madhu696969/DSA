@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Madhu696969/DSA/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Madhu696969/DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Madhu696969/DSA/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Madhu696969/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Madhu696969/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhu696969/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Madhu696969/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Madhu696969/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Madhu696969/DSA/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Madhu696969/DSA/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Madhu696969/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Madhu696969/DSA/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
