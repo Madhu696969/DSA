@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Madhu696969/DSA/tree/master/0526-beautiful-arrangement) |
 | [0877-stone-game](https://github.com/Madhu696969/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/Madhu696969/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Madhu696969/DSA/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Madhu696969/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1079-letter-tile-possibilities](https://github.com/Madhu696969/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhu696969/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Madhu696969/DSA/tree/master/1143-longest-common-subsequence) |
