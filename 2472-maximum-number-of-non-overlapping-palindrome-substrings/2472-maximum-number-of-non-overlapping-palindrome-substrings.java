@@ -24,10 +24,10 @@ class Solution {
         return -1;
     }
     private boolean Palin(String s,int st,int end){
-        if(end>=s.length() || st>=s.length()){
+        if(st>=s.length() || end>=s.length()){
             return false;
         }
-        while(st<=end){
+        while(st<end){
             if(s.charAt(st)!=s.charAt(end)){
                 return false;
             }
