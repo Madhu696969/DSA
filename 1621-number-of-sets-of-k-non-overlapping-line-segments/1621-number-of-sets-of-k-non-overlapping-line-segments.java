@@ -3,22 +3,19 @@ class Solution {
     public int numberOfSets(int n, int k) {
         int[][] dp=new int[n+1][k+1];
         int[][] pref=new int[n+1][k+1];
-        //base case
+        //base
         for(int i=0;i<n;i++){
             dp[i][0]=1;
             pref[i][0]=i+1;
         }
         for(int i=1;i<n;i++){
             for(int j=1;j<=k;j++){
-                //skip solve(idx-1,k);
                 dp[i][j]=dp[i-1][j];
-                // take
-                dp[i][j] +=pref[i-1][j-1];
+                dp[i][j]+=pref[i-1][j-1];
                 dp[i][j]%=mod;
-                pref[i][j]=(pref[i-1][j]+dp[i][j])%mod; 
+                pref[i][j]=(pref[i-1][j]+dp[i][j])%mod;
             }
         }
         return dp[n-1][k];
-        
     }
 }
