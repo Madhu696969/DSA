@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Madhu696969/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madhu696969/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Madhu696969/DSA/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2305-fair-distribution-of-cookies](https://github.com/Madhu696969/DSA/tree/master/2305-fair-distribution-of-cookies) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Madhu696969/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Madhu696969/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Madhu696969/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madhu696969/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Madhu696969/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madhu696969/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Madhu696969/DSA/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Madhu696969/DSA/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madhu696969/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Madhu696969/DSA/tree/master/1872-stone-game-viii) |
 | [3362-zero-array-transformation-iii](https://github.com/Madhu696969/DSA/tree/master/3362-zero-array-transformation-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Madhu696969/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Madhu696969/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Madhu696969/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Iterator
 |  |
