@@ -1,16 +1,19 @@
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
+    public boolean canFinish(int numC, int[][] prerequisites) {
         HashMap<Integer,List<Integer>> mp=new HashMap<>();
-        for(int i=0;i<numCourses;i++){
-            mp.put(i,new ArrayList<>());
+
+        for(int i=0;i<numC;i++){
+            mp.putIfAbsent(i,new ArrayList<>());
         }
+
         for(int[] pre:prerequisites){
             int u=pre[1];
             int v=pre[0];
             mp.get(u).add(v);
         }
-        int[] vis=new int[numCourses];
-        for(int i=0;i<numCourses;i++){
+
+        int[] vis=new int[numC];
+        for(int i=0;i<numC;i++){
             if(vis[i]==0){
                 if(!dfs(i,mp,vis)){
                     return false;
@@ -26,9 +29,11 @@ class Solution {
         if(vis[node]==2){
             return true;
         }
+
         vis[node]=1;
-        for(int nei:mp.get(node)){
-            if(!dfs(nei,mp,vis)){
+
+        for(int ele:mp.get(node)){
+            if(!dfs(ele,mp,vis)){
                 return false;
             }
         }
