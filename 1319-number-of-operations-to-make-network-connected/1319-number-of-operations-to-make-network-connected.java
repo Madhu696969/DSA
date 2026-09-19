@@ -13,7 +13,6 @@ class Solution {
         if(x==y){
             return;
         }
-
         if(rank[x]>rank[y]){
             par[y]=x;
         }
