@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/Madhu696969/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Madhu696969/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Madhu696969/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2498-frog-jump-ii](https://github.com/Madhu696969/DSA/tree/master/2498-frog-jump-ii) |
 | [2542-maximum-subsequence-score](https://github.com/Madhu696969/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/Madhu696969/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Madhu696969/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2498-frog-jump-ii](https://github.com/Madhu696969/DSA/tree/master/2498-frog-jump-ii) |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Madhu696969/DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Madhu696969/DSA/tree/master/2594-minimum-time-to-repair-cars) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Madhu696969/DSA/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Madhu696969/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Madhu696969/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2498-frog-jump-ii](https://github.com/Madhu696969/DSA/tree/master/2498-frog-jump-ii) |
 | [2542-maximum-subsequence-score](https://github.com/Madhu696969/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2560-house-robber-iv](https://github.com/Madhu696969/DSA/tree/master/2560-house-robber-iv) |
 | [2939-maximum-xor-product](https://github.com/Madhu696969/DSA/tree/master/2939-maximum-xor-product) |
