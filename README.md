@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Madhu696969/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Madhu696969/DSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Madhu696969/DSA/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Madhu696969/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Madhu696969/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Madhu696969/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Madhu696969/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Madhu696969/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Madhu696969/DSA/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Madhu696969/DSA/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Madhu696969/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Madhu696969/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Madhu696969/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Madhu696969/DSA/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Madhu696969/DSA/tree/master/0872-leaf-similar-trees) |
+| [0886-possible-bipartition](https://github.com/Madhu696969/DSA/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/Madhu696969/DSA/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Madhu696969/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Madhu696969/DSA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Madhu696969/DSA/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0886-possible-bipartition](https://github.com/Madhu696969/DSA/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Madhu696969/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Madhu696969/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Madhu696969/DSA/tree/master/1361-validate-binary-tree-nodes) |
@@ -879,10 +883,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Madhu696969/DSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Madhu696969/DSA/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Madhu696969/DSA/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Madhu696969/DSA/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Madhu696969/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Shortest Path
 |  |
