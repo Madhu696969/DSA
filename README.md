@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Madhu696969/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1079-letter-tile-possibilities](https://github.com/Madhu696969/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhu696969/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Madhu696969/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Madhu696969/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhu696969/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Madhu696969/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Madhu696969/DSA/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/Madhu696969/DSA/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhu696969/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Madhu696969/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhu696969/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Madhu696969/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhu696969/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Madhu696969/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhu696969/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhu696969/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Madhu696969/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
