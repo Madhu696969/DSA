@@ -1,19 +1,21 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> res=new ArrayList<>();
-        genParan(res,n,"",0,0);
+        solve(0,0,res,new StringBuilder(),n);
         return res;
     }
-    private void genParan(List<String> res,int n,String s,int l,int r){
-        if(s.length()==2*n){
-            res.add(s);
+    private void solve(int op,int clo,List<String> res,StringBuilder sb,int n){
+        if(op==n && clo==n){
+            res.add(sb.toString());
             return;
         }
-        if(l<n){
-            genParan(res,n,s+'(',l+1,r);
+        if(op<n){
+            solve(op+1,clo,res,sb.append("("),n);
+            sb.deleteCharAt(sb.length()-1);
         }
-        if(r<l){
-            genParan(res,n,s+")",l,r+1);
+        if(clo<op){
+            solve(op,clo+1,res,sb.append(")"),n);
+            sb.deleteCharAt(sb.length()-1);
         }
     }
 }
