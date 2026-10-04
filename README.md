@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Madhu696969/DSA/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Madhu696969/DSA/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/Madhu696969/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhu696969/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1405-longest-happy-string](https://github.com/Madhu696969/DSA/tree/master/1405-longest-happy-string) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Madhu696969/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Madhu696969/DSA/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/Madhu696969/DSA/tree/master/0526-beautiful-arrangement) |
+| [0678-valid-parenthesis-string](https://github.com/Madhu696969/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Madhu696969/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Madhu696969/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Madhu696969/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Madhu696969/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Madhu696969/DSA/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Madhu696969/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Madhu696969/DSA/tree/master/0990-satisfiability-of-equality-equations) |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Madhu696969/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Madhu696969/DSA/tree/master/0456-132-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/Madhu696969/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Madhu696969/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Madhu696969/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Madhu696969/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Madhu696969/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Madhu696969/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Madhu696969/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Madhu696969/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Madhu696969/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhu696969/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhu696969/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
