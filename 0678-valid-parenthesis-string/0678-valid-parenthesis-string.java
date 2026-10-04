@@ -2,9 +2,9 @@ class Solution {
     int[][] memo;
     public boolean checkValidString(String s) {
         int n=s.length();
-        memo=new int[101][101];
-        for(int[] d:memo){
-            Arrays.fill(d,-1);
+        memo=new int[n][n+1];
+        for(int[] mem:memo){
+            Arrays.fill(mem,-1);
         }
         return solve(0,0,s,n);
     }
@@ -19,15 +19,16 @@ class Solution {
         if(s.charAt(idx)=='*'){
             val|=solve(idx+1,op+1,s,n);
             val|=solve(idx+1,op,s,n);
+
             if(op>0){
                 val|=solve(idx+1,op-1,s,n);
             }
-        }
+        }   
         else if(s.charAt(idx)=='('){
             val|=solve(idx+1,op+1,s,n);
         }
         else if(s.charAt(idx)==')'){
-            if(op>0)val|=solve(idx+1,op-1,s,n);
+            if(op>0) val|=solve(idx+1,op-1,s,n);
         }
         memo[idx][op]=val?1:0;
         return memo[idx][op]==1;
