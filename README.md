@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Madhu696969/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Madhu696969/DSA/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Madhu696969/DSA/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Madhu696969/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Madhu696969/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/Madhu696969/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Madhu696969/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Madhu696969/DSA/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Madhu696969/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Madhu696969/DSA/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Madhu696969/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Madhu696969/DSA/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/Madhu696969/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Madhu696969/DSA/tree/master/0567-permutation-in-string) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Madhu696969/DSA/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Madhu696969/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Madhu696969/DSA/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Madhu696969/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/Madhu696969/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Madhu696969/DSA/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/Madhu696969/DSA/tree/master/0797-all-paths-from-source-to-target) |
